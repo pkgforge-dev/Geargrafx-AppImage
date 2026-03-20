@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Geargrafx
+Comment="PC Engine, TurboGrafx-16, SuperGrafx, PCE CD-ROM2 emulator"
+Exec=geargrafx
+Icon=icon
+StartupWMClass=geargrafx
+Categories=Game;Emulator
+Terminal=false
