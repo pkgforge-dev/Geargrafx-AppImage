@@ -34,5 +34,6 @@ fi
 
 mkdir -p ./AppDir/bin
 bsdtar -xvf /tmp/app.zip -C ./AppDir/bin
+chmod +x ./AppDir/bin/geargrafx
 rm -f ./AppDir/bin/README.txt
 wget -O ./AppDir/bin/gamecontrollerdb.txt https://raw.githubusercontent.com/mdqinc/SDL_GameControllerDB/master/gamecontrollerdb.txt
