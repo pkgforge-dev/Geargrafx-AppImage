@@ -15,8 +15,6 @@ export DEPLOY_OPENGL=1
 # Deploy dependencies
 quick-sharun ./AppDir/bin/geargrafx
 
-# Additional changes can be done in between here
-
 # Turn AppDir into AppImage
 quick-sharun --make-appimage
 
